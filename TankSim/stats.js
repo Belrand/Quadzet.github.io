@@ -8033,4 +8033,18 @@ let enchants = {
        "armor": 0,
        "parry": 0
     }
+    "Zandalar Signet of Might2": {
+      "strength": 0,
+      "stamina": 0,
+      "agility": 0,
+      "crit": 0,
+      "hit": 0,
+      "attackpower": 30,
+      "dodge": 0,
+      "block": 0,
+      "blockvalue": 0,
+      "defense": 0,
+      "armor": 0,
+      "parry": 0
+   }
 } 
